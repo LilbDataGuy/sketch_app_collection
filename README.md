@@ -12,10 +12,10 @@ A Python OpenCV app to toggle between grayscale and colored pencil sketch effect
 ## 🖼️ Preview
 
 ### Grayscale Sketch
-![Grayscale Sketch](gray_sketch_preview.jpg)
+![Grayscale Sketch](GrayScaleSketch.jpg)
 
 ### Colored Sketch
-![Colored Sketch](color_sketch_preview.jpg)
+![Colored Sketch](ColorSketch.jpg)
 
 ## 🚀 Usage
 
