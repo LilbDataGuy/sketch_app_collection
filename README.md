@@ -16,7 +16,6 @@ This project transforms any photo into a pencil sketch using OpenCV. It supports
 | Grayscale | Colored |
 |----------|---------|
 | ![](preview/GreyScaleSketch.png) | ![](preview/ColorSketch.png) |
-
 ## How to Use
 
 1. Download the ZIP in the `code/` folder.
